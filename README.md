@@ -8,3 +8,4 @@ Playing around with Firebase Cloud Functions
     4.  Add a function
     5.  To deploy the app use first select the project: firebase use --add
     6.  Then deploy: ‘firebase deploy --only functions’
+    7. Add Firebase Config to web app
